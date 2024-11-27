@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805630338183",
+    "project_id": "egypt-match-game",
+    "storage_bucket": "egypt-match-game.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805630338183:android:18971943107d34531b0422",
+        "android_client_info": {
+          "package_name": "com.egypt.math.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEvCfrYoZVCMGmeckTikySGgcPaF7eylE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
